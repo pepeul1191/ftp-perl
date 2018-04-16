@@ -2,7 +2,7 @@
 
 ### Instalación de dependencias
 
-    $ sudo cpanm Net::FTP
+    $ sudo cpanm Net::FTP Data::Dumper
 
 ---
 
